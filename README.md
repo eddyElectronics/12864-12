@@ -1,4 +1,6 @@
-# 12864-12  (3 นิ้ว)        
+# 12864-12  (3 นิ้ว)    
+
+ติดตั้ง u8g2 ที่นี่ https://github.com/olikraus/u8g2  
 Driver UC1601    
     
 Pinout
