@@ -1,5 +1,6 @@
 # 12864-12
-Driver UC1601
+Driver UC1601    
+    
 Pinout
 1.CS    
 2.RST    
